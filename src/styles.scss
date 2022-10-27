@@ -1,0 +1,12 @@
+$color: green;
+
+* {
+  color: $color;
+}
+
+body {
+  height: 20px;
+  margin: 200px;
+
+  font-size: 100px;
+}
